@@ -1,0 +1,34 @@
+<!-- P style is used to declare the font type and its size in the website ---?
+<p style="font-size:15.5px"
+class="has-drop-cap">
+<!-- the class has a paragraph i needed to make it bigger capital, so i use the DROP CAP, so that the website can be optimised and impressed, its new in HTML5 -->
+<strong>
+Bunch of us people know that,
+its pretty boring to be an adult. So we end up being us.
+</strong> 
+Here are the best lines given by the "STORIES PEOPLE". 
+If you wanna be one of the stories people, 
+share your line with us.</p>
+
+
+<p style=
+"font-size:15.5px">
+<strong>
+The best of the hash 
+lines are hitting you here!
+</strong>
+</p>
+
+
+<p style="font-size:15.5px" class="has-drop-cap">S<strong>
+hare us your lines 
+and let the world know about them
+</strong>
+</p>
+
+<p style=
+"font-size:15.5px"
+class="has-drop-cap">
+Fill the forum below for more information and amazing Quotes
+</p>
+
