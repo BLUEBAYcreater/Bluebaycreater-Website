@@ -7,3 +7,8 @@ The connection is completely secure for money transaction because SSL( Secure So
 
 I nearly worked for long time for this to happen,from 30 view in 2017 to 1,50,000 in 2019.
 In case of copy, please mke some small changes. So website can make dissimlarities in google,bing,ask.com and yahoo.
+
+
+Bluebaycreater as worldwide recognisation.
+Search Engine Optimizing day by day in very higher extent.
+
