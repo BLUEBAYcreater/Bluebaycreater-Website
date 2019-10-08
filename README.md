@@ -14,6 +14,10 @@ In case of copy, please mke some small changes. So website can make dissimlariti
 Bluebaycreater as worldwide recognisation.
 Search Engine Optimizing day by day in very higher extent.
 
+**Website is DNS verified From Google**
+
+![Screenshot (18)](https://user-images.githubusercontent.com/39979024/66370745-db12a100-e9be-11e9-961a-16c8760ddbb4.png)
+
 **The User Interface(UI) And User Experience(UX) of the Bluebaycreater website on the Android Phone**
 
 ![photo_2019-09-27_09-32-13](https://user-images.githubusercontent.com/39979024/65742142-893f6080-e10c-11e9-8c30-73e0fbee33ea.jpg)
