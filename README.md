@@ -1,7 +1,7 @@
 # Bluebay-Website
 The website code of the bluebaycreater, but encrypted code is not given.
 
-The website link is [www.bluebaycreaters.com](url)
+The website link is [www.bluebaycreaters.wordpress.com](url)
 
 Powered by google. The website is verified from google through DNS verification code.
 Operated and ported by the HTTPS(Hyper Text Transfer Protocol Secure)
